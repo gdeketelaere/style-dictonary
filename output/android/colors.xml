@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Fri, 05 May 2023 09:38:27 GMT
+-->
+<resources>
+  <color name="color_brand_primary">#ff419468</color>
+  <color name="color_brand_secondary">#ff78faae</color>
+  <color name="color_brand_tertiary">#ff0e3a2f</color>
+  <color name="color_brand_quarternary">#ffe8fff1</color>
+  <color name="color_brand_hover_primary">#ff59bc87</color>
+  <color name="color_brand_hover_secondary">#ffa8ffcc</color>
+  <color name="color_disabled_primary">#ffc4c6c7</color>
+  <color name="color_disabled_secondary">#ffd8d8d8</color>
+  <color name="color_disabled_tertiary">#ff9e9fa0</color>
+  <color name="color_typography_primary_black">#ff161718</color>
+  <color name="color_typography_primary_white">#ffffffff</color>
+  <color name="color_backgrounds_primary">#ffffffff</color>
+  <color name="color_backgrounds_dark_green">#ff00271d</color>
+  <color name="color_transparent_primary">#0f161718</color>
+  <color name="color_transparent_secondary">#1f1a1b1c</color>
+  <color name="color_transparent_tertiary">#1ff3f3f3</color>
+  <color name="color_transparent_backdrop">#cce4e4e4</color>
+  <color name="color_surface_primary">#fff1f1f1</color>
+  <color name="color_surface_secondary">#ffe4e4e4</color>
+  <color name="color_surface_tertiary">#ffffffff</color>
+  <color name="color_surface_quarternary">#ff303132</color>
+  <color name="color_on_surface_0">#ffffffff</color>
+  <color name="color_on_surface_100">#ffd8d8d8</color>
+  <color name="color_on_surface_200">#ffc4c6c7</color>
+  <color name="color_on_surface_300">#ff9e9fa0</color>
+  <color name="color_on_surface_500">#ff7c7d7e</color>
+  <color name="color_on_surface_600">#ff5a5b5c</color>
+  <color name="color_on_surface_700">#ff464748</color>
+  <color name="color_on_surface_800">#ff303132</color>
+  <color name="color_on_surface_900">#ff161718</color>
+  <color name="color_signal_alert">#ffe82b37</color>
+  <color name="color_signal_positive">#ff37d002</color>
+  <color name="color_signal_info">#ff2d71d7</color>
+  <color name="color_signal_warning">#ffec6513</color>
+  
+</resources>
