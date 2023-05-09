@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  text-align: center;
+}
+
+
+  .button {
+    @apply bg-electric-300 p-button-default rounded-button-default
+  }

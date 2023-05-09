@@ -18,5 +18,6 @@
   "homepage": "https://github.com/michaelmang/style-dictionary#readme",
   "dependencies": {
     "style-dictionary": "^3.8.0"
-  }
+  },
+  "devDependencies": {}
 }
